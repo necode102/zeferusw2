@@ -171,7 +171,7 @@ local Airflow = {
 		Resizable = false,
 		UnlockMouse = false,
 		IconSize = 20,
-	}, как сделать вниз больше
+	},
 	FileManager = {},
 	Features = {},
 	Lucide = {
